@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+logs/
+*.log
+dist/
+coverage/
+.vscode/
+.DS_Store
+
+# Ignore uploaded files but keep the folder
+public/temp/*
+!public/temp/.gitkeep
